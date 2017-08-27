@@ -25,7 +25,7 @@ Total Pull Requests Created: 4
 
 Total Issues Opened: 1
 1. [rhevm-qe-automation/ovirt-ansible#129](https://github.com/rhevm-qe-automation/ovirt-ansible/issues/129) - [question] specifying Exact Requirements on requirements.txt file
-2  [openshift/openshift-ansible#5236](https://github.com/openshift/openshift-ansible/issues/5236) - Check if NetworkManager is enabled/unmasked. #5236
+2. [openshift/openshift-ansible#5236](https://github.com/openshift/openshift-ansible/issues/5236) - Check if NetworkManager is enabled/unmasked. #5236
 
 Bugs filed: 2
 1. [OVESETUP_ENGINE_CONFIG/fqdn value not getting logged in answerfile when installing remote dwh](https://bugzilla.redhat.com/show_bug.cgi?id=1465859)
