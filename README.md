@@ -46,3 +46,7 @@ Total Issues Opened: 1
 - [Week 3 and 4, GSoC 2017 — dozens of cloud vm’s, ansibling, finding bugs, testing](https://medium.com/@tasdikrahman/week-3-and-4-gsoc-2017-dozens-of-cloud-vms-ansibling-finding-bugs-testing-217cb11205d)
 - [Second Phase — GSoC, work on 3 VM setup of oVirt installation](https://medium.com/@tasdikrahman/second-phase-gsoc-work-on-3-vm-setup-of-ovirt-installation-284172755ce3)
 - [Final post - GSoC 2017 with oVirt](https://medium.com/@tasdikrahman/gsoc-2017-with-ovirt-cba6d6c050c2)
+
+**Pending Work**
+
+- [rhevm-qe-automation/ovirt-ansible#123](https://github.com/rhevm-qe-automation/ovirt-ansible/issues/123) - Add roles for ovirt-engine-metrics
