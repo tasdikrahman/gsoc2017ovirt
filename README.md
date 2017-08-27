@@ -23,7 +23,7 @@ Total Pull Requests Created: 4
 3. [rhevm-qe-automation/ovirt-ansible#132](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/132) - [feature-add] Added role to rename engine
 4. [rhevm-qe-automation/ovirt-ansible#146](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/146) - tests:test-updrade40to41: added engine-rename role
 
-Total Issues Opened: 1
+Total Issues Opened: 2
 1. [rhevm-qe-automation/ovirt-ansible#129](https://github.com/rhevm-qe-automation/ovirt-ansible/issues/129) - [question] specifying Exact Requirements on requirements.txt file
 2. [openshift/openshift-ansible#5236](https://github.com/openshift/openshift-ansible/issues/5236) - Check if NetworkManager is enabled/unmasked. #5236
 
