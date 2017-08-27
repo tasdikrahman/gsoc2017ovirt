@@ -23,9 +23,8 @@ Total Pull Requests Created: 4
 3. [rhevm-qe-automation/ovirt-ansible#132](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/132) - [feature-add] Added role to rename engine
 4. [rhevm-qe-automation/ovirt-ansible#146](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/146) - tests:test-updrade40to41: added engine-rename role
 
-Total Issues Opened: 2
+Total Issues Opened: 1
 1. [rhevm-qe-automation/ovirt-ansible#129](https://github.com/rhevm-qe-automation/ovirt-ansible/issues/129) - [question] specifying Exact Requirements on requirements.txt file
-2. [openshift/openshift-ansible#5236](https://github.com/openshift/openshift-ansible/issues/5236) - Check if NetworkManager is enabled/unmasked. #5236
 
 Bugs filed: 2
 1. [OVESETUP_ENGINE_CONFIG/fqdn value not getting logged in answerfile when installing remote dwh](https://bugzilla.redhat.com/show_bug.cgi?id=1465859)
@@ -35,6 +34,11 @@ Bugs filed: 2
 
 Total Issues Opened: 1
 1. [ViaQ/Main#12](https://github.com/ViaQ/Main/issues/12) - ansible-play fails on centos7 during the task [openshift_version : For an RPM install, abort when the release requested does not match the available version.]
+
+**Repository: openshift-ansible**
+
+Total Issues Opened: 1
+1. [openshift/openshift-ansible#5236](https://github.com/openshift/openshift-ansible/issues/5236) - Check if NetworkManager is enabled/unmasked. #5236
 
 **Blog Posts: Medium**
 
@@ -47,6 +51,6 @@ Total Issues Opened: 1
 - [Second Phase — GSoC, work on 3 VM setup of oVirt installation](https://medium.com/@tasdikrahman/second-phase-gsoc-work-on-3-vm-setup-of-ovirt-installation-284172755ce3)
 - [Final post - GSoC 2017 with oVirt](https://medium.com/@tasdikrahman/gsoc-2017-with-ovirt-cba6d6c050c2)
 
-**Pending Work**
+### Pending Work
 
 - [rhevm-qe-automation/ovirt-ansible#123](https://github.com/rhevm-qe-automation/ovirt-ansible/issues/123) - Add roles for ovirt-engine-metrics
