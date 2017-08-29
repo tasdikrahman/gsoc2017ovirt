@@ -5,7 +5,6 @@ GSoC 2017 contributions for oVirt
 
 + Name: Tasdik Rahman
 + Github: [tasdikrahman](https://github.com/tasdikrahman)
-+ Email: tasdikrahman@zoho.com
 + Blog: https://tasdikrahman.me/
 
 ## Links
@@ -17,11 +16,12 @@ GSoC 2017 contributions for oVirt
 
 **Repository: ovirt-ansible**
 
-Total Pull Requests Created: 4
+Total Pull Requests Created: 5
 1. [rhevm-qe-automation/ovirt-ansible#139](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/139) - [test_upgrade] tests for ovirt version upgrades
 2. [rhevm-qe-automation/ovirt-ansible#137](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/137) - Remote dwh fresh engine install
 3. [rhevm-qe-automation/ovirt-ansible#132](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/132) - [feature-add] Added role to rename engine
 4. [rhevm-qe-automation/ovirt-ansible#146](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/146) - tests:test-updrade40to41: added engine-rename role
+5. [rhevm-qe-automation/ovirt-ansible#148](https://github.com/rhevm-qe-automation/ovirt-ansible/pull/148) - [ovirt-engine-metrics] WIP
 
 Total Issues Opened: 1
 1. [rhevm-qe-automation/ovirt-ansible#129](https://github.com/rhevm-qe-automation/ovirt-ansible/issues/129) - [question] specifying Exact Requirements on requirements.txt file
