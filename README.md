@@ -10,7 +10,6 @@ GSoC 2017 contributions for oVirt
 ## Links
 
 + [GSoC Proposal](https://github.com/tasdikrahman/gsoc-proposal-2017)
-+ [Project on GSoC website](https://summerofcode.withgoogle.com/projects/#6188534896525312)
 
 # Contributions 
 
